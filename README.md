@@ -1,10 +1,12 @@
-## Rock, Paper, Scissors blockchain game (in progress)
+ 
+#### RPS-Blockchain-Game 
+ (in progress)
 
-___
+___________________________________
 **solidity version** - `0.4.24`
 
 **web3 version** - `1.0.0-beta.34`
-___
+___________________________________
 
 #### Requirements
 1. node.js > 8 version
@@ -20,4 +22,4 @@ npm i
 1. Open first console and run `npm run dev`
 2. Open second console and run `truffle develop`. Then in this console run `migrate --reset`
 3. Open in browser `http://localhost:8080/`
-4. **Optional for debug** - open third console and run `truffle develop --log`
+4. **Optional for debug** - open third console and run `truffle develop --log` 
